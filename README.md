@@ -1,9 +1,12 @@
 ﻿# Proyecto UNAL
 
-App en Node.js con Express y EJS.
+Aplicación en Node.js con Express y EJS.
 
 ## Instalación
 
-cd UNAL
+```bash
 npm install
 npm run dev
+```
+
+Abre http://localhost:3000 en el navegador.
